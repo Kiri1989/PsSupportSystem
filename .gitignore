@@ -1,0 +1,9 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+.vs/
+
+# Optional: ignore runtime data files if you don't want reports.json in Git
+# Data/*.json
